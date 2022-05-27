@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayurbhatt914
 - 👀 I’m interested in ... Backend Engineering
 - 🌱 I’m currently learning ... Java, Spring Boot and Cloud
-- 💞️ I’m looking to collaborate on ... Anything interesting om the topics mentioned above
+- 💞️ I’m looking to collaborate on ... Anything interesting on the topics mentioned above
 - 📫 How to reach me ... mayurbhatt914@yahoo.com
 
 <!---
